@@ -1,0 +1,9 @@
+{
+	"name": "canvas-image-manipulation",
+	"description": "library of functions related to manipulating images using the canvas element",
+	"homepage": "https://github.com/jackp/canvas-image-manipulation",
+	"author": "Jack Parker",
+	"version": "0.1.0",
+	"git": "https://github.com/jackp/canvas-image-manipulation.git",
+	"packages": {}
+}
